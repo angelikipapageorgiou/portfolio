@@ -383,6 +383,9 @@ img {
     .home__img {
         width: 450px;
     }
+     .contact__container a {
+        font-size: 18px;
+    }
 
 
 }
